@@ -8,6 +8,7 @@ About: The plasma membrane proteome is a rich resource of functionally important
 
 Yan, T., Boatner, L. M., Cui, L., Tontonoz, P., & Backus, K. M. (2023). Defining the Cell Surface Cysteinome using Two-step Enrichment Proteomics. JACS Au.
 
+
 <p align="center">
-  <img width="460" height="300" src="https://github.com/lmboat/cyssurfdb/assets/35751646/e6087151-be04-42dd-979f-a1215be50c2e">
+  <img width="460" height="250" src="https://github.com/lmboat/cyssurfdb/assets/35751646/e6087151-be04-42dd-979f-a1215be50c2e">
 </p>!
